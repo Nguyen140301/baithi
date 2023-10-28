@@ -7,6 +7,7 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import org.mindrot.jbcrypt.BCrypt;
+//kk
 
 import entitis.Nhanvien;
 import model.Nhanvienmodel;
